@@ -1,6 +1,6 @@
 # One Hell of a Butler - Lethal Company Mod
 
-_Turns the regular butler into a one hell of a butler._
+_Turns the regular butler into one hell of a butler._
 
 ## Dependencies
 
@@ -10,7 +10,7 @@ _Turns the regular butler into a one hell of a butler._
 
 ## What It Does
 
-The mod simply replaces the `ButlerUntuckKnifeSFX` with a custom sound effect from Black Butler when Sebastian says "I'm simply one hell of a butler".
+The mod simply replaces the `ButlerUntuckKnifeSFX` with a custom sound effect from Black Butler when Sebastian says, "I'm simply one hell of a butler".
 
 ## How to install
 
@@ -18,7 +18,7 @@ The mod is mod manager compliant. It's the easiest way to install this mod.
 
 **OR**
 
-If you want to instal the mod manually, first install the dependencies, and add the `ButlerUntuckKnifeSFX.wav` file into `BepInEx\plugins\CustomSounds`.
+If you want to install the mod manually, first install the dependencies and add the `ButlerUntuckKnifeSFX.wav` file into `BepInEx\plugins\CustomSounds`.
 
 ## Check if it works (optional)
 
