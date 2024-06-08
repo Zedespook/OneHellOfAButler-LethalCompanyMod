@@ -1,7 +1,7 @@
 {
   "name": "OneHellOfAButler",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/Zedespook/OneHellOfAButler",
+  "website_url": "https://github.com/Zedespook/OneHellOfAButler-LethalCompanyMod",
   "description": "Turns the regular butler into a one hell of a butler.",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
